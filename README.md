@@ -1,1 +1,2 @@
-# brinkleyfield.github.io
+blog-template
+=============
