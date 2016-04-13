@@ -1,3 +1,7 @@
 url: http://brinkleyfield.github.io
 markdown: rdiscount
 pygments: true
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  github: brinkleyfield
