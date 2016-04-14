@@ -5,6 +5,7 @@ title: Brinkley's Home Page
 
 <div id="home">
   <h1>Blog Posts</h1>
+  <img src="images/nike-just-do-it.jpg" id="nike" alt="">
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a></li>
