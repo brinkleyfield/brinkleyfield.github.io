@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brinkley's Nike City Page Version 2
-description: Check out my latest City Page for myself for Nike Dallas.
+description: Check out my second version of my City Page for myself for Nike Dallas.
 image:
 categories: [pdf]
 tags: [nike, city page, dallas, pdf]
