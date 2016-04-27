@@ -5,7 +5,7 @@ permalink: /:title
 # https://help.github.com/articles/migrating-your-pages-site-from-maruku
 markdown: kramdown
 
-highlighter: pygments
+highlighter: rouge
 paginate: 20 # pagination based on number of posts
 paginate_path: "page/:num"
 
@@ -20,8 +20,6 @@ BASE_PATH : http://brinkleyfield.github.io
 
 title : Brinkley Field + Nike!
 
-
-
 author:
   name: Brinkley Field
   role: Nike Enthusiast
@@ -30,5 +28,6 @@ author:
   twitter: the__brinks
   facebook: brinkley.field
   googleplus:
-  bio: "My name is Brinkley but my friends call me Brinks. I adore fashion and I dream of opening a bakery, Brinkles Sprinkles. Along the way, I plan on working for Nike."
-  uno-dbyll:
+  bio: "My name is Brinkley but my friends call me Brinks. I adore fashion and
+    I dream of opening a bakery, Brinkles Sprinkles. Along the way, I plan on
+    working for Nike."
